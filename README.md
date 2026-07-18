@@ -28,14 +28,6 @@ amazon-clone/ │ ├── index.html ├── style.css └── assets/ ├
 
 ---
 
-## 🖼️ Preview
-
-Here are some snapshots of the project 👇  
-(Add screenshots or screen recordings here!)
-
----
-
-
 
 ## 🧰 Tech Stack
 
