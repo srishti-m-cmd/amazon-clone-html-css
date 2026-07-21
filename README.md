@@ -71,7 +71,8 @@ then just open `index.html` in your browser. that's it. that's the deploy pipeli
 
 *add a screenshot here for maximum flex* 👀
 ```
-[ insert homepage screenshot ]
+<img width="1920" height="1080" alt="Screenshot (521)" src="https://github.com/user-attachments/assets/4870c880-e0ba-40be-b6b8-c30f2fc72566" />
+
 ```
 
 ---
