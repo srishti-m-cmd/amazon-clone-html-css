@@ -112,5 +112,6 @@ found something to improve? PRs are always welcome, no cap.
 ### 🧡 made by [srishti-m-cmd](https://github.com/srishti-m-cmd)
 
 *if this repo lowkey inspired you, drop a ⭐ — it means a lot*
+please do support 💛
 
 </div>
